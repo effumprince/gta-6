@@ -23,10 +23,8 @@ const App = () => {
       <ComingSoon />
       <FirstVideo />
       <Jason />
-
       <SecondVideo />
       <Lucia />
-
       <PostCard />
       <Final />
       <Outro />
